@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Componentes Basicos</string>
+    <string name="nome">"Digite seu nome "</string>
+    <string name="email">Digite seu e-mail</string>
+</resources>
